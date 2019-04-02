@@ -12,6 +12,7 @@ layout: post
 title: CS231n学习笔记
 tags: Notes CNN
 categories: Notes
+excerpt: 摘要，不填默认第一段
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ```
