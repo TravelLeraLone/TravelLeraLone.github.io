@@ -4,8 +4,8 @@
 
 ## 提交post的流程
 
-1. 写好md文件
-2. 在其全文前加上前缀
+1. 写好md文件<br>
+2. 在其全文前加上前缀<br>
 ```
 ---
 layout: post
@@ -15,18 +15,18 @@ categories: Notes
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ```
-（最后一行是enable Tex格式的数学公式的）
-3. 将其按照以下格式命名：
-YYYY-MM-DD-$name$.md
-4. 复制到_posts内
-5. 相关图片和静态内容放到static内
+（最后一行是enable Tex格式的数学公式的）<br>
+3. 将其按照以下格式命名：<br>
+YYYY-MM-DD-$name$.md<br>
+4. 复制到_posts内<br>
+5. 相关图片和静态内容放到static内<br>
 
 ## TODO List
 
-[] 站内搜索引擎
-[] feed.xml
-[] favicon.ico change
-[] CHAME
-[] link and about
-[] Top
-[] Toc
+[] 站内搜索引擎<br>
+[] feed.xml<br>
+[] favicon.ico change<br>
+[] CHAME<br>
+[] link and about<br>
+[] Top<br>
+[] Toc<br>
