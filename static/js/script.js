@@ -48,10 +48,16 @@ function search(){
         e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.appendChild(s);
     })(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
 
-    _st('install','{{site.swiftype_searchId}}','2.0.0');
+    _st('install','s6hWyytxNDTGNH2aXs7U','2.0.0');
+
+//     (function() {
+//         var cx = '008448265475863540932:4gffpru0qug';
+//         var gcse = document.createElement('script');
+//         gcse.type = 'text/javascript';
+//         gcse.async = true;
+//         gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+//         var s = document.getElementsByTagName('script')[0];
+//         s.parentNode.insertBefore(gcse, s);
+//     })();
 }
-
-
-
-
-
+{/* <gcse:search></gcse:search> */}

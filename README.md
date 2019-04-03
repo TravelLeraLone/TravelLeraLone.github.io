@@ -24,11 +24,11 @@ YYYY-MM-DD-$name$.md<br>
 
 ## TODO List
 
-[] 站内搜索引擎<br>
-[] feed.xml<br>
-[] favicon.ico change<br>
-[] CHAME<br>
-[] link and about<br>
-[] Top<br>
-[] Toc<br>
-[] md中的公式显示
+- [ ] 站内搜索引擎<br>
+- [ ] feed.xml<br>
+- [x] favicon.ico change<br>
+- [ ] CHAME<br>
+- [ ] link and about<br>
+- [x] Top<br>
+- [ ] Toc<br>
+- [ ] md中的公式显示
