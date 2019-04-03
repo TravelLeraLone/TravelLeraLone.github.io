@@ -27,8 +27,8 @@ YYYY-MM-DD-$name$.md<br>
 - [ ] 站内搜索引擎<br>
 - [ ] feed.xml<br>
 - [x] favicon.ico change<br>
-- [ ] CHAME<br>
-- [ ] link and about<br>
+- [x] CHAME<br>
+- [x] link and about<br>
 - [x] Top<br>
 - [ ] Toc<br>
 - [ ] md中的公式显示
