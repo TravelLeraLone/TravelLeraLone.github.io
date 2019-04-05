@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Going Deeper with Convolutions FL
-tags: Notes CNN Classification NetStruc
+title: Going Deeper with Convolutions
+tags: Notes CNN Classification NetStruc FL
 categories: Paper
 excerpt: GoogLeNet的提出文章，提出了使用Inception Module的想法
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-### 原文链接：[Going Deeper with Convolutions (2015)](https://arxiv.org/pdf/1409.4842.pdf)
+**原文链接：[Going Deeper with Convolutions (2015)](https://arxiv.org/pdf/1409.4842.pdf)**
 
 # Introduction
 
@@ -28,5 +27,5 @@ auxiliary classifiers为了解决梯度消失问题，并且更好的针对中�
 但是他们被验证仅有很小的效果（less than 0.5%），且只需要一个去达到相同的效果
 
 # 后续有许多针对Inception Module的结构的改进探索工作
-\[1\][Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016)](https://arxiv.org/pdf/1602.07261v1.pdf)
+\[1\][Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016)](https://arxiv.org/pdf/1602.07261v1.pdf) <br />
 \[2\][Rethinking the Inception Architecture for Computer Vision (2016)](https://arxiv.org/pdf/1512.00567.pdf)
