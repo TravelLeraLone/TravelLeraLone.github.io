@@ -30,4 +30,4 @@ YYYY-MM-DD-$name$.md<br>
 - [x] link and about<br>
 - [x] Top<br>
 - [ ] Toc<br>
-- [x] md中的公式显示
+- [ ] md中的公式显示
