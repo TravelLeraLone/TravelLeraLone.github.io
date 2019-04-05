@@ -3,7 +3,7 @@ layout: post
 title: Going Deeper with Convolutions
 tags: Notes CNN Classification NetStruc FL
 categories: Paper
-excerpt: GoogLeNet的提出文章，提出了使用Inception Module的想法
+excerpt: GoogLeNet的提出文章，提出了使用Inception Module的想法。
 ---
 
 **原文链接：[Going Deeper with Convolutions (2015)](https://arxiv.org/pdf/1409.4842.pdf)**
