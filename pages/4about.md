@@ -24,4 +24,4 @@ Tele: +86 189 1689 2565 <br />
 
 ---
 
-CV: [PDF](http://127.0.0.1:4000/CV_zzh.pdf)
+CV: [PDF](https://travelleralone.github.io/CV_zzh.pdf)
