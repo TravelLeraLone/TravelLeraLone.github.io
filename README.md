@@ -14,6 +14,10 @@ tags: Notes CNN
 categories: Notes
 excerpt: 摘要，不填默认第一段
 ---
+
+* TOC
+{:toc}
+
 ```
 <br>
 3. 将其按照以下格式命名：<br>
@@ -29,5 +33,7 @@ YYYY-MM-DD-$name$.md<br>
 - [x] CHAME<br>
 - [x] link and about<br>
 - [x] Top<br>
-- [ ] Toc<br>
+- [X] Toc<br>
 - [x] md中的公式显示
+- [ ] 文本格式美化
+- [ ] 侧边栏优化设计

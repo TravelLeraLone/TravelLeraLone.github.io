@@ -6,6 +6,9 @@ categories: Paper
 excerpt: 是现有语义分割中比较重要的方法之一，可以看做是由U-Net发展而来的一种方法，故而属于编码-解码+跳跃链接的思路，主要的网络结构继承自U-Net，并优化了解码的过程及跳跃链接的处理。
 ---
 
+* TOC
+{:toc}
+
 **原文链接：[RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation (2016)](https://arxiv.org/pdf/1611.06612.pdf)**
 
 # 摘要
