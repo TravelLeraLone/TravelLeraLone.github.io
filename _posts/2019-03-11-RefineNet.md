@@ -30,7 +30,7 @@ DeepLab的限制：需要在大量的细节特征图（通常很大）上进行c
 ## Multi-Path Refinement
 关键的设计在通过长程的residual连接使梯度可以有效高效的backprop到低级的layers，从而使网络可以被end-to-end的训练
 
-![rn1]({{ "/rn1.png" | prepend: site.imgrepo }})
+![fn1]({{ "/fn1.png" | prepend: site.imgrepo }})
 
 接着用双线性插值的方法还原成原图像分辨率的结果。
 
