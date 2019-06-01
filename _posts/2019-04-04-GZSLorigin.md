@@ -8,9 +8,7 @@ excerpt: 本文主要的贡献在于将传统的零次学习拓展到了广义�
 
 * TOC
 {:toc}
-
 **原文链接：[Zero-Shot Learning Through Cross-Modal Transfer](http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)**
-
 
 ## 摘要
 
